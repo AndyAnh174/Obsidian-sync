@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "518c200a34cdf3c1",
+    "type": "split",
+    "children": [
+      {
+        "id": "ec4509d8cce0f465",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b615949d946ae0cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HCMUTE/KTLT/Tài liệu.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ca5e135c440a4c02",
+    "type": "split",
+    "children": [
+      {
+        "id": "1038728bffcbb2c1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d8da4ef66ad1b502",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "86050d12254c2024",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "65e36bdb0b9cf930",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "9c9f904f8c44e826",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc98c3509cde0725",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bfed46b3c32e2863",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "HCMUTE/KTLT/Tài liệu.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cc00f215f6ad77ce",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "HCMUTE/KTLT/Tài liệu.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "41c45888d2dffcee",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b3acff054b32eabd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "HCMUTE/KTLT/Tài liệu.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Mở bộ chuyển đổi nhanh": false,
+      "graph:Mở xem biểu đồ": false,
+      "canvas:Tạo bảng mới": false,
+      "daily-notes:Mở ghi chú hôm nay": false,
+      "templates:Chèn mẫu": false,
+      "command-palette:Mở khay lệnh": false
+    }
+  },
+  "active": "b615949d946ae0cf",
+  "lastOpenFiles": [
+    "HCMUTE/FHQX/link FHQX.md",
+    "HCMUTE/KTLT/Tài liệu.md",
+    "HCMUTE/KTLT",
+    "HCMUTE/Toán Rời Rạc/Slide Bài Học/Day10.pdf",
+    "HCMUTE/Toán Rời Rạc/Slide Bài Học/Day11.pdf",
+    "HCMUTE/Toán Rời Rạc/Ôn Kiểm tra 24-04-2024/Bài 1.md",
+    "HCMUTE/PLDC/An Ninh Mạng.md",
+    "HCMUTE/DTCB/13-4-2024.md",
+    "HCMUTE/Toán Rời Rạc/Slide Bài Học/Day08.pdf",
+    "HCMUTE/Toán Rời Rạc/Slide Bài Học/Day09.pdf",
+    "HCMUTE/Toán Rời Rạc/Slide Bài Học/Day06.pdf",
+    "HCMUTE/Toán Rời Rạc/Slide Bài Học/Day04.pdf",
+    "HCMUTE/Toán Rời Rạc/Slide Bài Học/Day01.pdf",
+    "HCMUTE/Toán Rời Rạc/Slide Bài Học/Day11.pdf.crdownload",
+    "HCMUTE/Toán Rời Rạc/Slide Bài Học/Day10.pdf.crdownload",
+    "HCMUTE/Toán Rời Rạc/Pasted image 20240411073511.png",
+    "HCMUTE/Chưa đặt tên.md",
+    "HCMUTE/Toán Rời Rạc/Pasted image 20240411080404.png",
+    "Chưa đặt tên.canvas",
+    "HCMUTE/2024-04-12.md",
+    "HCMUTE/Quốc Phòng 2(10-4-2024)/Mục chú ý của bài Tôn Giáo tiểu đội 7.md",
+    "Chưa đặt tên 1.canvas",
+    "HCMUTE/Quốc Phòng 2(10-4-2024)/Môi Trường.md",
+    "Chưa đặt tên.md",
+    "HCMUTE/Toán Rời Rạc/Day11 Coloring/Contents.md",
+    "HCMUTE/Quốc Phòng 2(10-4-2024)/2024-04-09.md",
+    "HCMUTE/Quốc Phòng 2(10-4-2024)/Untitled.canvas",
+    "HCMUTE/Quốc Phòng 2(10-4-2024)/Chưa đặt tên.canvas",
+    "HCMUTE/Quốc Phòng 2(10-4-2024)/2024-04-10.md",
+    "HCMUTE/Quốc Phòng 2(10-4-2024)/tóm tắt môi trường.md"
+  ]
+}
