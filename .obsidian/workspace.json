@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HCMUTE/KTLT/Kiểu dữ liệu có cấu trúc - Nhập xuất trên tập tin.md",
+                "file": "HCMUTE/FHQX/link FHQX.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HCMUTE/KTLT/Kiểu dữ liệu có cấu trúc - Nhập xuất trên tập tin.md",
+                "file": "HCMUTE/FHQX/link FHQX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HCMUTE/KTLT/Kiểu dữ liệu có cấu trúc - Nhập xuất trên tập tin.md",
+                "file": "HCMUTE/FHQX/link FHQX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HCMUTE/KTLT/Kiểu dữ liệu có cấu trúc - Nhập xuất trên tập tin.md"
+                "file": "HCMUTE/FHQX/link FHQX.md"
               }
             }
           }
@@ -138,19 +138,28 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Mở bộ chuyển đổi nhanh": false,
-      "graph:Mở xem biểu đồ": false,
-      "canvas:Tạo bảng mới": false,
-      "daily-notes:Mở ghi chú hôm nay": false,
-      "templates:Chèn mẫu": false,
-      "command-palette:Mở khay lệnh": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
   "active": "b615949d946ae0cf",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "HCMUTE/Toán Rời Rạc/Pasted image 20240411073511.png",
+    "HCMUTE/Toán Rời Rạc/Pasted image 20240411080404.png",
     "HCMUTE/FHQX/link FHQX.md",
-    "HCMUTE/KTLT/Kiểu dữ liệu có cấu trúc - Nhập xuất trên tập tin.md",
+    "Job-Project/stand",
+    "Job-Project/font-end",
+    "Job-Project",
     "HCMUTE/KTLT/Tài liệu.md",
+    "HCMUTE/PLDC/Pháp luật về an ninh mạng.md",
+    "HCMUTE/PLDC/An Ninh Mạng.md",
+    "HCMUTE/KTLT/Kiểu dữ liệu có cấu trúc - Nhập xuất trên tập tin.md",
+    "HCMUTE/KTLT/Kiểu dùng DATE (năm sinh).md",
     "HCMUTE/Obsidian-sync-github/Welcome.md",
     "HCMUTE/Obsidian-sync-github",
     "Obsidian-sync/Welcome.md",
@@ -159,27 +168,21 @@
     "HCMUTE/Toán Rời Rạc/Slide Bài Học/Day10.pdf",
     "HCMUTE/Toán Rời Rạc/Slide Bài Học/Day11.pdf",
     "HCMUTE/Toán Rời Rạc/Ôn Kiểm tra 24-04-2024/Bài 1.md",
-    "HCMUTE/PLDC/An Ninh Mạng.md",
     "HCMUTE/DTCB/13-4-2024.md",
     "HCMUTE/Toán Rời Rạc/Slide Bài Học/Day08.pdf",
     "HCMUTE/Toán Rời Rạc/Slide Bài Học/Day09.pdf",
-    "HCMUTE/Toán Rời Rạc/Slide Bài Học/Day06.pdf",
-    "HCMUTE/Toán Rời Rạc/Slide Bài Học/Day04.pdf",
-    "HCMUTE/Toán Rời Rạc/Slide Bài Học/Day01.pdf",
-    "HCMUTE/Toán Rời Rạc/Pasted image 20240411073511.png",
     "HCMUTE/Chưa đặt tên.md",
-    "HCMUTE/Toán Rời Rạc/Pasted image 20240411080404.png",
     "Chưa đặt tên.canvas",
     "HCMUTE/2024-04-12.md",
-    "HCMUTE/Quốc Phòng 2(10-4-2024)/Mục chú ý của bài Tôn Giáo tiểu đội 7.md",
+    "HCMUTE/Quốc Phòng/Mục chú ý của bài Tôn Giáo tiểu đội 7.md",
     "Chưa đặt tên 1.canvas",
-    "HCMUTE/Quốc Phòng 2(10-4-2024)/Môi Trường.md",
+    "HCMUTE/Quốc Phòng/Môi Trường.md",
     "Chưa đặt tên.md",
     "HCMUTE/Toán Rời Rạc/Day11 Coloring/Contents.md",
-    "HCMUTE/Quốc Phòng 2(10-4-2024)/2024-04-09.md",
-    "HCMUTE/Quốc Phòng 2(10-4-2024)/Untitled.canvas",
-    "HCMUTE/Quốc Phòng 2(10-4-2024)/Chưa đặt tên.canvas",
-    "HCMUTE/Quốc Phòng 2(10-4-2024)/2024-04-10.md",
-    "HCMUTE/Quốc Phòng 2(10-4-2024)/tóm tắt môi trường.md"
+    "HCMUTE/Quốc Phòng/2024-04-09.md",
+    "HCMUTE/Quốc Phòng/Untitled.canvas",
+    "HCMUTE/Quốc Phòng/Chưa đặt tên.canvas",
+    "HCMUTE/Quốc Phòng/2024-04-10.md",
+    "HCMUTE/Quốc Phòng/tóm tắt môi trường.md"
   ]
 }
