@@ -22,7 +22,7 @@
 I.PHẦN MỞ ĐẦU
 1. Mục đích nghiên cứu
 2. Đối tượng nghiên cứu
-3. Phương pháp nghiên cứu
+3. ==Phương pháp nghiên cứu==
 4. Bố cục bài tiểu luận
 II.Phần nội dung
 1. **KHÁI QUÁT PHÁP LUẬT VỀ AN NINH MẠNG CỦA VIỆT NAM**
