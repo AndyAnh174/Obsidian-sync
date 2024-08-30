@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "ec4509d8cce0f465",
+        "id": "527eb36416ccc725",
         "type": "tabs",
         "children": [
           {
-            "id": "b615949d946ae0cf",
+            "id": "1f8a0b736f3368d6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "HCMUTE/HK1 2024-2025/DSA/Day 2.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "HCMUTE/HK1 2024-2025/DSA/Day 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "HCMUTE/HK1 2024-2025/DSA/Day 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HCMUTE/Untitled.md"
+                "file": "HCMUTE/HK1 2024-2025/DSA/Day 2.md"
               }
             }
           }
@@ -140,8 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d8da4ef66ad1b502",
+  "active": "1f8a0b736f3368d6",
   "lastOpenFiles": [
+    "HCMUTE/HK1 2024-2025/DSA/Day 2.md",
+    "HCMUTE/HK1 2024-2025/DSA",
+    "HCMUTE/HK1 2024-2025",
     "HCMUTE/HK1 2024-2025",
     "HCMUTE/Untitled.md",
     "HCMUTE/Toán Rời Rạc/Slide Bài Học/Day03.pdf",
@@ -153,8 +162,6 @@
     "HCMUTE/Toán Rời Rạc/Ôn Kiểm tra 07-06-2024/Exercises.pdf",
     "HCMUTE/Toán Rời Rạc/Ôn Kiểm tra 07-06-2024/Bài 1.md",
     "HCMUTE/Toán Rời Rạc/Ôn Kiểm tra 07-06-2024",
-    "HCMUTE/Toán Rời Rạc/Giáo Trình Ôn Tập/Toán rời rạc - Nguyễn Hữu Anh.pdf",
-    "HCMUTE/Toán Rời Rạc/Giáo Trình Ôn Tập",
     "HCMUTE/Toán Rời Rạc/Floyd.md",
     "HCMUTE/Quốc Phòng/08-05-2024.md",
     "HCMUTE/PLDC/Luật hôn nhân và gia đình.md",
@@ -166,7 +173,6 @@
     "HCMUTE/PLDC/An Ninh Mạng.md",
     "Untitled.canvas",
     "2024-05-05.md",
-    "CppHw/constest2/baiC.cpp",
     "HCMUTE/Toán Rời Rạc/Pasted image 20240411073511.png",
     "HCMUTE/Toán Rời Rạc/Pasted image 20240411080404.png",
     "HCMUTE/KTLT/Tài liệu.md",
