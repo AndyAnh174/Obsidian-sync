@@ -1,0 +1,22 @@
+{
+	"nodes":[
+		{"id":"67fbf652da24be69","type":"file","file":"Develop List/Frontend.svg","x":-340,"y":-180,"width":400,"height":93},
+		{"id":"835d0cdbb19e0484","type":"text","text":"Front-End","x":-90,"y":-400,"width":250,"height":50},
+		{"id":"0c7b9d18727ea5b7","type":"file","file":"Develop List/git.png","x":185,"y":-180,"width":184,"height":77},
+		{"id":"cb3809d045f21e2d","type":"text","text":"Back-End","x":60,"y":60,"width":155,"height":60},
+		{"id":"cdaace768c2c69ce","type":"text","text":"Web Tech","x":28,"y":-560,"width":250,"height":60},
+		{"id":"2471e1d720c6b587","type":"file","file":"Develop List/backend.svg","x":-1337,"y":260,"width":3241,"height":100},
+		{"id":"3e731cc8c813352a","type":"file","file":"Develop List/Data.svg","x":-340,"y":-780,"width":3189,"height":100},
+		{"id":"5a2e40a097f0d4a4","type":"text","text":"Data Engineer","x":1005,"y":-141,"width":250,"height":50}
+	],
+	"edges":[
+		{"id":"d98ea30b21933a54","fromNode":"835d0cdbb19e0484","fromSide":"bottom","toNode":"67fbf652da24be69","toSide":"top"},
+		{"id":"e53908df6cb75cee","fromNode":"cdaace768c2c69ce","fromSide":"bottom","toNode":"835d0cdbb19e0484","toSide":"top"},
+		{"id":"b1c1921f7959d4ba","fromNode":"67fbf652da24be69","fromSide":"bottom","toNode":"cb3809d045f21e2d","toSide":"left"},
+		{"id":"edf7743601bed515","fromNode":"67fbf652da24be69","fromSide":"right","toNode":"0c7b9d18727ea5b7","toSide":"left"},
+		{"id":"ae472b56604b1888","fromNode":"cb3809d045f21e2d","fromSide":"top","toNode":"0c7b9d18727ea5b7","toSide":"bottom"},
+		{"id":"771a6c93bbd24a8b","fromNode":"cb3809d045f21e2d","fromSide":"bottom","toNode":"2471e1d720c6b587","toSide":"top"},
+		{"id":"76bc4aa614c286bc","fromNode":"cb3809d045f21e2d","fromSide":"right","toNode":"5a2e40a097f0d4a4","toSide":"left"},
+		{"id":"100afa11c046c2ac","fromNode":"5a2e40a097f0d4a4","fromSide":"top","toNode":"3e731cc8c813352a","toSide":"bottom"}
+	]
+}
