@@ -11,14 +11,11 @@
             "id": "1f8a0b736f3368d6",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Develop List/develop list.canvas",
-                "viewState": {
-                  "x": 756,
-                  "y": -210,
-                  "zoom": -1.4580536863062925
-                }
+                "file": "linux/Cấu trúc thư mục và lệnh.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Develop List/develop list.canvas",
+                "file": "linux/Cấu trúc thư mục và lệnh.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Develop List/develop list.canvas",
+                "file": "linux/Cấu trúc thư mục và lệnh.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Develop List/develop list.canvas"
+                "file": "linux/Cấu trúc thư mục và lệnh.md"
               }
             }
           }
@@ -151,11 +148,31 @@
   },
   "active": "1f8a0b736f3368d6",
   "lastOpenFiles": [
-    "Develop List/Frontend.svg",
+    "HCMUTE/HK2 2023-2024/Toán Rời Rạc/Slide Bài Học/Day01.pdf",
+    "linux/Cấu trúc thư mục và lệnh.md",
+    "Pasted image 20240925013951.png",
+    "linux/Ký tự.md",
+    "Pasted image 20240925013638.png",
+    "Pasted image 20240925013613.png",
+    "Pasted image 20240925013304.png",
+    "Pasted image 20240925013233.png",
+    "Pasted image 20240925013159.png",
+    "Pasted image 20240925013104.png",
+    "Pasted image 20240925012407.png",
+    "Pasted image 20240925012249.png",
+    "Pasted image 20240925011951.png",
+    "HCMUTE/CTF/Forensics/File Document.md",
+    "linux",
+    "HCMUTE/HK1 2024-2025/WEB",
+    "HCMUTE/CTF/RE/Anti Debug.md",
+    "HCMUTE/CTF/RE/Untitled.md",
+    "HCMUTE/CTF/Forensics/pdf digital forensics.pdf",
+    "HCMUTE/CTF/RE",
+    "HCMUTE/CTF/XSS.md",
+    "HCMUTE/CTF/Forensics",
+    "Untitled.md",
+    "HCMUTE/CTF",
     "Develop List/develop list.canvas",
-    "Develop List/backend.svg",
-    "Develop List/git.png",
-    "Develop List/Data.svg",
     "Develop List",
     "2024-05-05.md",
     "Untitled.canvas",
@@ -164,14 +181,8 @@
     "HCMUTE/HK1 2024-2025/DSA/Day 2.md",
     "HCMUTE/HK1 2024-2025/DSA",
     "HCMUTE/HK1 2024-2025",
-    "HCMUTE/HK1 2024-2025",
     "HCMUTE/Untitled.md",
-    "HCMUTE/Toán Rời Rạc/Slide Bài Học/Day03.pdf",
-    "HCMUTE/Toán Rời Rạc/Slide Bài Học/Day02.pdf",
-    "HCMUTE/Toán Rời Rạc/Slide Bài Học/Day01.pdf",
-    "HCMUTE/Toán Rời Rạc/Slide Bài Học/Day06.pdf",
     "HCMUTE/FHQX/link FHQX.md",
-    "HCMUTE/Toán Rời Rạc/Ôn Kiểm tra 07-06-2024/toanrr.docx",
     "HCMUTE/Toán Rời Rạc/Ôn Kiểm tra 07-06-2024/Bài 1.md",
     "HCMUTE/Toán Rời Rạc/Floyd.md",
     "HCMUTE/Quốc Phòng/08-05-2024.md",
@@ -182,20 +193,11 @@
     "HCMUTE/PLDC/PLDC CS.md",
     "HCMUTE/PLDC/Pháp luật về an ninh mạng.md",
     "HCMUTE/PLDC/An Ninh Mạng.md",
-    "HCMUTE/Toán Rời Rạc/Pasted image 20240411073511.png",
-    "HCMUTE/Toán Rời Rạc/Pasted image 20240411080404.png",
     "HCMUTE/KTLT/Tài liệu.md",
     "HCMUTE/KTLT/Kiểu dữ liệu có cấu trúc - Nhập xuất trên tập tin.md",
     "HCMUTE/KTLT/Kiểu dùng DATE (năm sinh).md",
-    "HCMUTE/Obsidian-sync-github/Welcome.md",
-    "HCMUTE/Toán Rời Rạc/Ôn Kiểm tra 24-04-2024/Bài 1.md",
-    "HCMUTE/DTCB/13-4-2024.md",
-    "HCMUTE/Chưa đặt tên.md",
     "Chưa đặt tên.canvas",
-    "HCMUTE/2024-04-12.md",
-    "HCMUTE/Quốc Phòng/Mục chú ý của bài Tôn Giáo tiểu đội 7.md",
     "Chưa đặt tên 1.canvas",
-    "HCMUTE/Quốc Phòng/Môi Trường.md",
     "HCMUTE/Quốc Phòng/Untitled.canvas",
     "HCMUTE/Quốc Phòng/Chưa đặt tên.canvas"
   ]
