@@ -100,3 +100,10 @@ Dùng lệnh tar:
 Dùng lệnh cut:
 ![[Pasted image 20240925203525.png]]
 ![[Pasted image 20240925203544.png]]
+
+Dùng lệnh Reboot:
+![[Pasted image 20240926001015.png]]
+
+Dùng lệnh shutdown:
+![[Pasted image 20240926001032.png]]
+

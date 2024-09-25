@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux/Cấu trúc thư mục và lệnh.md",
+                "file": "linux/Group Management.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linux/Cấu trúc thư mục và lệnh.md",
+                "file": "linux/Group Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linux/Cấu trúc thư mục và lệnh.md",
+                "file": "linux/Group Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linux/Cấu trúc thư mục và lệnh.md"
+                "file": "linux/Group Management.md"
               }
             }
           }
@@ -148,19 +148,26 @@
   },
   "active": "1f8a0b736f3368d6",
   "lastOpenFiles": [
-    "Pasted image 20240925203544.png",
-    "Pasted image 20240925203525.png",
-    "linux/Phần mềm vim.md",
-    "Pasted image 20240925102031.png",
-    "Pasted image 20240925102013.png",
-    "Pasted image 20240925101958.png",
+    "Pasted image 20240926011221.png",
+    "Pasted image 20240926011157.png",
+    "Pasted image 20240926010926.png",
+    "Pasted image 20240926010749.png",
+    "Pasted image 20240926010649.png",
+    "Pasted image 20240926010626.png",
+    "linux/User Management.md",
+    "linux/Group Management.md",
+    "Pasted image 20240926005831.png",
+    "Pasted image 20240926005828.png",
+    "Pasted image 20240926005802.png",
+    "Pasted image 20240926005700.png",
+    "Pasted image 20240926005410.png",
+    "Picture",
+    "linux/Các câu lệnh hệ thống.md",
     "linux/Cấu trúc thư mục và lệnh.md",
-    "Pasted image 20240925101803.png",
-    "Pasted image 20240925101734.png",
-    "Pasted image 20240925101605.png",
-    "Pasted image 20240925101511.png",
-    "Pasted image 20240925101435.png",
-    "Pasted image 20240925101423.png",
+    "linux/Quá trình hoạt động linux.md",
+    "linux/Untitled",
+    "linux/How_to_linux_works/How_Linux_Works_3rd.pdf",
+    "linux/Phần mềm vim.md",
     "linux/Ký tự.md",
     "HCMUTE/HK2 2023-2024/Toán Rời Rạc/Slide Bài Học/Day01.pdf",
     "HCMUTE/CTF/Forensics/File Document.md",
@@ -175,13 +182,10 @@
     "Untitled.md",
     "HCMUTE/CTF",
     "Develop List/develop list.canvas",
-    "Develop List",
     "2024-05-05.md",
     "Untitled.canvas",
-    "Developlist",
     "Obsidian-sync/Welcome.md",
     "HCMUTE/HK1 2024-2025/DSA/Day 2.md",
-    "HCMUTE/HK1 2024-2025/DSA",
     "HCMUTE/Untitled.md",
     "HCMUTE/FHQX/link FHQX.md",
     "HCMUTE/Toán Rời Rạc/Ôn Kiểm tra 07-06-2024/Bài 1.md",
@@ -192,10 +196,6 @@
     "HCMUTE/KTLT/BIGNUM.md",
     "HCMUTE/KTLT/Add number in array.md",
     "HCMUTE/PLDC/PLDC CS.md",
-    "HCMUTE/PLDC/Pháp luật về an ninh mạng.md",
-    "HCMUTE/PLDC/An Ninh Mạng.md",
-    "HCMUTE/KTLT/Tài liệu.md",
-    "HCMUTE/KTLT/Kiểu dữ liệu có cấu trúc - Nhập xuất trên tập tin.md",
     "Chưa đặt tên.canvas",
     "Chưa đặt tên 1.canvas",
     "HCMUTE/Quốc Phòng/Untitled.canvas",
