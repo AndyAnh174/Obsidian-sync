@@ -96,3 +96,7 @@ Dùng lệnh gunzip:
 
 Dùng lệnh tar:
 ![[Pasted image 20240925101803.png]]
+
+Dùng lệnh cut:
+![[Pasted image 20240925203525.png]]
+![[Pasted image 20240925203544.png]]
