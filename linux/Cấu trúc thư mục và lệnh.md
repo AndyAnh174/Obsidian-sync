@@ -70,3 +70,29 @@ dùng lệnh mv:
 
 Các Lệnh xem nội dung:
 ![[Pasted image 20240925013951.png]]
+
+Dùng lệnh grep:
+
+![[Pasted image 20240925100930.png]]
+
+dùng lệnh find:
+![[Pasted image 20240925101252.png]]
+
+Quyền hạn
+![[Pasted image 20240925101312.png]]
+
+dùng lệnh whereis:
+![[Pasted image 20240925101423.png]]
+![[Pasted image 20240925101435.png]]
+
+Dùng lệnh which:
+![[Pasted image 20240925101511.png]]
+
+Dùng lệnh gzip(file nén có đuôi .gz):
+![[Pasted image 20240925101605.png]]
+
+Dùng lệnh gunzip:
+![[Pasted image 20240925101734.png]]
+
+Dùng lệnh tar:
+![[Pasted image 20240925101803.png]]
