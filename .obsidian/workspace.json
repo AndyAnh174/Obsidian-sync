@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux/Group Management.md",
+                "file": "linux/Linux Permissions.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linux/Group Management.md",
+                "file": "linux/Linux Permissions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linux/Group Management.md",
+                "file": "linux/Linux Permissions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linux/Group Management.md"
+                "file": "linux/Linux Permissions.md"
               }
             }
           }
@@ -148,19 +148,20 @@
   },
   "active": "1f8a0b736f3368d6",
   "lastOpenFiles": [
-    "Pasted image 20240926011221.png",
-    "Pasted image 20240926011157.png",
-    "Pasted image 20240926010926.png",
-    "Pasted image 20240926010749.png",
-    "Pasted image 20240926010649.png",
-    "Pasted image 20240926010626.png",
-    "linux/User Management.md",
+    "Picture/Pasted image 20240926090716.png",
+    "Picture/Pasted image 20240926090639.png",
+    "Picture/Pasted image 20240926090412.png",
+    "Picture/Pasted image 20240926090146.png",
+    "Picture/Pasted image 20240926085622.png",
+    "Picture/Pasted image 20240926085348.png",
+    "Picture/Pasted image 20240926085342.png",
+    "Picture/Pasted image 20240926084950.png",
+    "Picture/Pasted image 20240926084815.png",
+    "Picture/Pasted image 20240926084757.png",
+    "Picture/Pasted image 20240926084346.png",
     "linux/Group Management.md",
-    "Pasted image 20240926005831.png",
-    "Pasted image 20240926005828.png",
-    "Pasted image 20240926005802.png",
-    "Pasted image 20240926005700.png",
-    "Pasted image 20240926005410.png",
+    "linux/Linux Permissions.md",
+    "linux/User Management.md",
     "Picture",
     "linux/Các câu lệnh hệ thống.md",
     "linux/Cấu trúc thư mục và lệnh.md",
@@ -195,7 +196,6 @@
     "HCMUTE/KTLT/remove number in array.md",
     "HCMUTE/KTLT/BIGNUM.md",
     "HCMUTE/KTLT/Add number in array.md",
-    "HCMUTE/PLDC/PLDC CS.md",
     "Chưa đặt tên.canvas",
     "Chưa đặt tên 1.canvas",
     "HCMUTE/Quốc Phòng/Untitled.canvas",
