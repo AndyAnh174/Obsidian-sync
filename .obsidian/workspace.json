@@ -31,11 +31,9 @@
             "id": "ddbe8a96eba383b2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "HCMUTE/HK1 2024-2025/KTMT-HN/Link Hoc.md",
-                "mode": "source",
-                "source": false
+                "file": "HCMUTE/HK1 2024-2025/OOP-Java/Chapter7.pdf"
               }
             }
           }
@@ -106,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HCMUTE/HK1 2024-2025/KTMT-HN/Link Hoc.md",
+                "file": "HCMUTE/HK1 2024-2025/OOP-Java/Chapter7.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HCMUTE/HK1 2024-2025/KTMT-HN/Link Hoc.md",
+                "file": "HCMUTE/HK1 2024-2025/OOP-Java/Chapter7.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HCMUTE/HK1 2024-2025/KTMT-HN/Link Hoc.md"
+                "file": "HCMUTE/HK1 2024-2025/OOP-Java/Chapter7.pdf"
               }
             }
           }
@@ -169,19 +167,20 @@
   },
   "active": "ddbe8a96eba383b2",
   "lastOpenFiles": [
+    "HCMUTE/HK1 2024-2025/OOP-Java/Chapter8.pdf",
+    "HCMUTE/HK1 2024-2025/OOP-Java/OOP_Bai08(vi).pdf",
+    "HCMUTE/HK1 2024-2025/Python/[IPPA233277] w04.1-c03_cac-kieu-du-lieu-phuc-hop_tuple_set_dictionary_HW (done).pdf",
+    "HCMUTE/HK1 2024-2025/Python/[IPPA233277] w04.1-c03_cac-kieu-du-lieu-phuc-hop_tuple_set_dictionary (done).pdf",
+    "HCMUTE/HK1 2024-2025/Python/[IPPA233277] w03-c03_cac-kieu-du-lieu-phuc-hop_list_HW (done).pdf",
+    "HCMUTE/HK1 2024-2025/Python/[IPPA233277] w02.3-c02_cau-truc-lap (done).pdf",
+    "HCMUTE/HK1 2024-2025/Python/[IPPA233277] w03-c03_cac-kieu-du-lieu-phuc-hop_list (done).pdf",
+    "HCMUTE/HK1 2024-2025/Python/[IPPA233277] w04.2-c03_xu-ly-tap-tin (done).pdf",
     "HCMUTE/HK1 2024-2025/KTMT-HN/Link Hoc.md",
     "Develop List/develop list.canvas",
     "Develop List/backend.svg",
     "HCMUTE/HK1 2024-2025/DSA/Chuong3-1socapsapxep.pdf",
-    "HCMUTE/HK1 2024-2025/Python/[IPPA233277] w02.3-c02_cau-truc-lap (done).pdf",
     "HCMUTE/HK1 2024-2025/Python/[IPPA233277] w05-c04_ham (done).pdf",
     "HCMUTE/HK1 2024-2025/Python/[IPPA233277] w02.3-c02_cau-truc-lap_HW (done).pdf",
-    "HCMUTE/HK1 2024-2025/Python/[IPPA233277] w02.2-c02_kieu-du-lieu_cau-truc-re-nhanh_HW (done).pdf",
-    "HCMUTE/HK1 2024-2025/Python/[IPPA233277] w02.1-c02_cac-khai-niem-co-ban_HW (done).pdf",
-    "HCMUTE/HK1 2024-2025/Python/[IPPA233277] w02.2-c02_kieu-du-lieu_cau-truc-re-nhanh (done).pdf",
-    "HCMUTE/HK1 2024-2025/Python/[IPPA233277] w04.1-c03_cac-kieu-du-lieu-phuc-hop_tuple_set_dictionary_HW (done).pdf",
-    "HCMUTE/HK1 2024-2025/Python/[IPPA233277] w04.1-c03_cac-kieu-du-lieu-phuc-hop_tuple_set_dictionary (done).pdf",
-    "HCMUTE/HK1 2024-2025/Python/[IPPA233277] w04.2-c03_xu-ly-tap-tin_HW (done).pdf",
     "linux/Các câu lệnh hệ thống.md",
     "linux/Cấu trúc thư mục và lệnh.md",
     "linux/Phần mềm vim.md",
