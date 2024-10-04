@@ -20,3 +20,18 @@ Remove user:
 Policy setting for user:
 ![[Pasted image 20240926005802.png]]
 ![[Pasted image 20240926005831.png]]
+
+Dùng lệnh chmod:
+![[Pasted image 20241001133103.png]]
+![[Pasted image 20241001133217.png]]
+![[Pasted image 20241001133306.png]]
+![[Pasted image 20241001133533.png]]
+
+Dùng lệnh chown:
+![[Pasted image 20241001133559.png]]
+![[Pasted image 20241001133618.png]]
+
+Dùng lệnh chgrp:
+![[Pasted image 20241001133654.png]]
+![[Pasted image 20241001133707.png]]
+

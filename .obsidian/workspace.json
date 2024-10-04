@@ -21,9 +21,11 @@
             "id": "bd2ec415892c2852",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "HCMUTE/HK1 2024-2025/Python/[IPPA233277] w04.1-c03_cac-kieu-du-lieu-phuc-hop_tuple_set_dictionary (done).pdf"
+                "file": "linux/Cấu trúc thư mục và lệnh.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -33,7 +35,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "HCMUTE/HK1 2024-2025/OOP-Java/Chapter7.pdf"
+                "file": "HCMUTE/HK1 2024-2025/Web/Day5.pdf"
               }
             }
           }
@@ -104,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HCMUTE/HK1 2024-2025/OOP-Java/Chapter7.pdf",
+                "file": "HCMUTE/HK1 2024-2025/Web/Day5.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HCMUTE/HK1 2024-2025/OOP-Java/Chapter7.pdf",
+                "file": "HCMUTE/HK1 2024-2025/Web/Day5.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HCMUTE/HK1 2024-2025/OOP-Java/Chapter7.pdf"
+                "file": "HCMUTE/HK1 2024-2025/Web/Day5.pdf"
               }
             }
           }
@@ -167,38 +169,37 @@
   },
   "active": "ddbe8a96eba383b2",
   "lastOpenFiles": [
+    "linux/User Management.md",
+    "HCMUTE/HK1 2024-2025/Web/Day5.pdf",
+    "Pasted image 20241001133707.png",
+    "Pasted image 20241001133654.png",
+    "Pasted image 20241001133618.png",
+    "Pasted image 20241001133559.png",
+    "Pasted image 20241001133533.png",
+    "Pasted image 20241001133306.png",
+    "linux/Cấu trúc thư mục và lệnh.md",
+    "HCMUTE/HK1 2024-2025/OOP-Java/Chapter7.pdf",
+    "Pasted image 20241001133217.png",
+    "Pasted image 20241001133103.png",
+    "linux/Linux-learning-LPI/LPI-Learning-Material-101-500-en.pdf",
+    "HCMUTE/HK1 2024-2025/OOP-Java/Bai-tap-chuong-6.pdf",
+    "linux/Linux-learning-LPI/LPI-Learning-Material-102-500-en.pdf",
+    "linux/Linux-learning-LPI",
     "HCMUTE/HK1 2024-2025/OOP-Java/Chapter8.pdf",
+    "HCMUTE/HK1 2024-2025/Python/[IPPA233277] w04.1-c03_cac-kieu-du-lieu-phuc-hop_tuple_set_dictionary (done).pdf",
     "HCMUTE/HK1 2024-2025/OOP-Java/OOP_Bai08(vi).pdf",
     "HCMUTE/HK1 2024-2025/Python/[IPPA233277] w04.1-c03_cac-kieu-du-lieu-phuc-hop_tuple_set_dictionary_HW (done).pdf",
-    "HCMUTE/HK1 2024-2025/Python/[IPPA233277] w04.1-c03_cac-kieu-du-lieu-phuc-hop_tuple_set_dictionary (done).pdf",
-    "HCMUTE/HK1 2024-2025/Python/[IPPA233277] w03-c03_cac-kieu-du-lieu-phuc-hop_list_HW (done).pdf",
-    "HCMUTE/HK1 2024-2025/Python/[IPPA233277] w02.3-c02_cau-truc-lap (done).pdf",
-    "HCMUTE/HK1 2024-2025/Python/[IPPA233277] w03-c03_cac-kieu-du-lieu-phuc-hop_list (done).pdf",
-    "HCMUTE/HK1 2024-2025/Python/[IPPA233277] w04.2-c03_xu-ly-tap-tin (done).pdf",
     "HCMUTE/HK1 2024-2025/KTMT-HN/Link Hoc.md",
     "Develop List/develop list.canvas",
     "Develop List/backend.svg",
-    "HCMUTE/HK1 2024-2025/DSA/Chuong3-1socapsapxep.pdf",
-    "HCMUTE/HK1 2024-2025/Python/[IPPA233277] w05-c04_ham (done).pdf",
-    "HCMUTE/HK1 2024-2025/Python/[IPPA233277] w02.3-c02_cau-truc-lap_HW (done).pdf",
     "linux/Các câu lệnh hệ thống.md",
-    "linux/Cấu trúc thư mục và lệnh.md",
     "linux/Phần mềm vim.md",
     "linux/Ký tự.md",
-    "linux/User Management.md",
     "linux/Quá trình hoạt động linux.md",
     "Develop List/Data.svg",
     "HCMUTE/Obsidian-sync-github/Welcome.md",
     "linux/Linux Permissions.md",
     "HCMUTE/HK1 2024-2025/DSA/Day 2.md",
-    "Picture/Pasted image 20240926090716.png",
-    "Picture/Pasted image 20240926090639.png",
-    "Picture/Pasted image 20240926090412.png",
-    "Picture/Pasted image 20240926090146.png",
-    "Picture/Pasted image 20240926085622.png",
-    "Picture/Pasted image 20240926085348.png",
-    "Picture/Pasted image 20240926085342.png",
-    "Picture/Pasted image 20240926084950.png",
     "linux/Group Management.md",
     "HCMUTE/CTF/Forensics/File Document.md",
     "HCMUTE/CTF/RE/Anti Debug.md",

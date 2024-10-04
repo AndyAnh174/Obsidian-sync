@@ -107,3 +107,4 @@ Dùng lệnh Reboot:
 Dùng lệnh shutdown:
 ![[Pasted image 20240926001032.png]]
 
+
