@@ -35,7 +35,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "HCMUTE/HK1 2024-2025/Web/Day5.pdf"
+                "file": "linux/Linux-learning-LPI/LPI-Learning-Material-101-500-en.pdf"
               }
             }
           }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HCMUTE/HK1 2024-2025/Web/Day5.pdf",
+                "file": "linux/Linux-learning-LPI/LPI-Learning-Material-101-500-en.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HCMUTE/HK1 2024-2025/Web/Day5.pdf",
+                "file": "linux/Linux-learning-LPI/LPI-Learning-Material-101-500-en.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HCMUTE/HK1 2024-2025/Web/Day5.pdf"
+                "file": "linux/Linux-learning-LPI/LPI-Learning-Material-101-500-en.pdf"
               }
             }
           }
@@ -169,8 +169,9 @@
   },
   "active": "ddbe8a96eba383b2",
   "lastOpenFiles": [
-    "linux/User Management.md",
+    "HCMUTE/HK1 2024-2025/OOP-Java/Bai-tap-chuong-6.pdf",
     "HCMUTE/HK1 2024-2025/Web/Day5.pdf",
+    "linux/User Management.md",
     "Pasted image 20241001133707.png",
     "Pasted image 20241001133654.png",
     "Pasted image 20241001133618.png",
@@ -182,7 +183,6 @@
     "Pasted image 20241001133217.png",
     "Pasted image 20241001133103.png",
     "linux/Linux-learning-LPI/LPI-Learning-Material-101-500-en.pdf",
-    "HCMUTE/HK1 2024-2025/OOP-Java/Bai-tap-chuong-6.pdf",
     "linux/Linux-learning-LPI/LPI-Learning-Material-102-500-en.pdf",
     "linux/Linux-learning-LPI",
     "HCMUTE/HK1 2024-2025/OOP-Java/Chapter8.pdf",
