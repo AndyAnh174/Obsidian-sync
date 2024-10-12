@@ -8,39 +8,29 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0f5c22b11a09c335",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "HCMUTE/HK1 2024-2025/Python/[IPPA233277] w05-c04_ham (done).pdf"
-              }
-            }
-          },
-          {
-            "id": "bd2ec415892c2852",
+            "id": "6cf8dc9642761360",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux/Cấu trúc thư mục và lệnh.md",
+                "file": "HCMUTE/Project/DSA/Chương trình Quản lý thông tin Khách hàng và các thông tin phim tại rạp chiếu phim..md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ddbe8a96eba383b2",
+            "id": "4d9e978364bfdbcc",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "linux/Linux-learning-LPI/LPI-Learning-Material-101-500-en.pdf"
+                "file": "HCMUTE/HK1 2024-2025/Python/[IPPA233277] w08-w09-c06_class (done).pdf"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linux/Linux-learning-LPI/LPI-Learning-Material-101-500-en.pdf",
+                "file": "HCMUTE/HK1 2024-2025/Python/[IPPA233277] w08-w09-c06_class (done).pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linux/Linux-learning-LPI/LPI-Learning-Material-101-500-en.pdf",
+                "file": "HCMUTE/HK1 2024-2025/Python/[IPPA233277] w08-w09-c06_class (done).pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linux/Linux-learning-LPI/LPI-Learning-Material-101-500-en.pdf"
+                "file": "HCMUTE/HK1 2024-2025/Python/[IPPA233277] w08-w09-c06_class (done).pdf"
               }
             }
           }
@@ -167,32 +157,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ddbe8a96eba383b2",
+  "active": "4d9e978364bfdbcc",
   "lastOpenFiles": [
-    "HCMUTE/HK1 2024-2025/OOP-Java/Bai-tap-chuong-6.pdf",
-    "HCMUTE/HK1 2024-2025/Web/Day5.pdf",
-    "linux/User Management.md",
-    "Pasted image 20241001133707.png",
-    "Pasted image 20241001133654.png",
-    "Pasted image 20241001133618.png",
-    "Pasted image 20241001133559.png",
-    "Pasted image 20241001133533.png",
-    "Pasted image 20241001133306.png",
+    "HCMUTE/Project/DSA/Chương trình Quản lý thông tin Khách hàng và các thông tin phim tại rạp chiếu phim..md",
+    "HCMUTE/HK1 2024-2025/Python/[IPPA233277] w08-w09-c06_class (done).pdf",
+    "HCMUTE/HK1 2024-2025/Python/[IPPA233277] w08-w09-c06_class_HW (done).pdf",
+    "HCMUTE/Project/DSA",
+    "HCMUTE/Project",
+    "HCMUTE/HK1 2024-2025/Python/[IPPA233277] w07-c05_su-dung-modules-library-trong-python_HW (done).pdf",
+    "HCMUTE/HK1 2024-2025/Python/[IPPA233277] w05-c04_ham (done).pdf",
     "linux/Cấu trúc thư mục và lệnh.md",
-    "HCMUTE/HK1 2024-2025/OOP-Java/Chapter7.pdf",
-    "Pasted image 20241001133217.png",
-    "Pasted image 20241001133103.png",
-    "linux/Linux-learning-LPI/LPI-Learning-Material-101-500-en.pdf",
-    "linux/Linux-learning-LPI/LPI-Learning-Material-102-500-en.pdf",
-    "linux/Linux-learning-LPI",
-    "HCMUTE/HK1 2024-2025/OOP-Java/Chapter8.pdf",
-    "HCMUTE/HK1 2024-2025/Python/[IPPA233277] w04.1-c03_cac-kieu-du-lieu-phuc-hop_tuple_set_dictionary (done).pdf",
-    "HCMUTE/HK1 2024-2025/OOP-Java/OOP_Bai08(vi).pdf",
-    "HCMUTE/HK1 2024-2025/Python/[IPPA233277] w04.1-c03_cac-kieu-du-lieu-phuc-hop_tuple_set_dictionary_HW (done).pdf",
+    "Picture/Pasted image 20241001133707.png",
+    "HCMUTE/HK1 2024-2025/Python/[IPPA233277] w07-c05_su-dung-modules-library-trong-python (done).pdf",
+    "HCMUTE/HK1 2024-2025/Python/[IPPA233277] w06-c04_xu-ly-chuoi (done).pdf",
+    "HCMUTE/HK1 2024-2025/Python/[IPPA233277] w05-c04_ham_HW (done).pdf",
+    "HCMUTE/HK1 2024-2025/Python/[IPPA233277] w06-c04_xu-ly-chuoi_HW (done).pdf",
+    "linux/Các câu lệnh hệ thống.md",
+    "Picture/Pasted image 20241001133103.png",
+    "linux/User Management.md",
+    "Picture/Pasted image 20241001133654.png",
+    "Picture/Pasted image 20241001133618.png",
+    "Picture/Pasted image 20241001133559.png",
+    "Picture/Pasted image 20241001133533.png",
+    "Picture/Pasted image 20241001133306.png",
+    "Picture/Pasted image 20241001133217.png",
     "HCMUTE/HK1 2024-2025/KTMT-HN/Link Hoc.md",
     "Develop List/develop list.canvas",
     "Develop List/backend.svg",
-    "linux/Các câu lệnh hệ thống.md",
     "linux/Phần mềm vim.md",
     "linux/Ký tự.md",
     "linux/Quá trình hoạt động linux.md",
@@ -215,7 +206,6 @@
     "HCMUTE/Toán Rời Rạc/Floyd.md",
     "HCMUTE/Quốc Phòng/08-05-2024.md",
     "HCMUTE/PLDC/Luật hôn nhân và gia đình.md",
-    "HCMUTE/KTLT/remove number in array.md",
     "Chưa đặt tên.canvas",
     "Chưa đặt tên 1.canvas",
     "HCMUTE/Quốc Phòng/Untitled.canvas",
