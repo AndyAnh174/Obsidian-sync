@@ -23,9 +23,11 @@
             "id": "4d9e978364bfdbcc",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "HCMUTE/HK1 2024-2025/Python/[IPPA233277] w08-w09-c06_class (done).pdf"
+                "file": "HCMUTE/CLB CauLong HCMUTE/Content.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HCMUTE/HK1 2024-2025/Python/[IPPA233277] w08-w09-c06_class (done).pdf",
+                "file": "HCMUTE/CLB CauLong HCMUTE/Content.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HCMUTE/HK1 2024-2025/Python/[IPPA233277] w08-w09-c06_class (done).pdf",
+                "file": "HCMUTE/CLB CauLong HCMUTE/Content.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HCMUTE/HK1 2024-2025/Python/[IPPA233277] w08-w09-c06_class (done).pdf"
+                "file": "HCMUTE/CLB CauLong HCMUTE/Content.md"
               }
             }
           }
@@ -159,8 +161,11 @@
   },
   "active": "4d9e978364bfdbcc",
   "lastOpenFiles": [
-    "HCMUTE/Project/DSA/Chương trình Quản lý thông tin Khách hàng và các thông tin phim tại rạp chiếu phim..md",
+    "HCMUTE/HK1 2024-2025/KTMT-HN/Link Hoc.md",
+    "HCMUTE/CLB CauLong HCMUTE/Content.md",
+    "HCMUTE/CLB CauLong HCMUTE",
     "HCMUTE/HK1 2024-2025/Python/[IPPA233277] w08-w09-c06_class (done).pdf",
+    "HCMUTE/Project/DSA/Chương trình Quản lý thông tin Khách hàng và các thông tin phim tại rạp chiếu phim..md",
     "HCMUTE/HK1 2024-2025/Python/[IPPA233277] w08-w09-c06_class_HW (done).pdf",
     "HCMUTE/Project/DSA",
     "HCMUTE/Project",
@@ -171,7 +176,6 @@
     "HCMUTE/HK1 2024-2025/Python/[IPPA233277] w07-c05_su-dung-modules-library-trong-python (done).pdf",
     "HCMUTE/HK1 2024-2025/Python/[IPPA233277] w06-c04_xu-ly-chuoi (done).pdf",
     "HCMUTE/HK1 2024-2025/Python/[IPPA233277] w05-c04_ham_HW (done).pdf",
-    "HCMUTE/HK1 2024-2025/Python/[IPPA233277] w06-c04_xu-ly-chuoi_HW (done).pdf",
     "linux/Các câu lệnh hệ thống.md",
     "Picture/Pasted image 20241001133103.png",
     "linux/User Management.md",
@@ -181,7 +185,6 @@
     "Picture/Pasted image 20241001133533.png",
     "Picture/Pasted image 20241001133306.png",
     "Picture/Pasted image 20241001133217.png",
-    "HCMUTE/HK1 2024-2025/KTMT-HN/Link Hoc.md",
     "Develop List/develop list.canvas",
     "Develop List/backend.svg",
     "linux/Phần mềm vim.md",
